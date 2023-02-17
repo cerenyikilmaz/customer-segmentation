@@ -77,7 +77,8 @@ Since we don't need to do any mathematical operations with the customer_id and i
 Also, because the customer_id parameter comes as an integer, we removed the trailing ".0" values.
 
 Our data set has a total of 16,105,820 rows, 3,706,002 unique item_id and 2,847,919 unique customer_id.
-Brief Description About Segments
+
+# Brief Description About Segments
 
 Champions: Recently Purchased, Often Purchased, and Most Spent. Reward those customers. You can become an early adopter of new products and help promote your brand.
 
